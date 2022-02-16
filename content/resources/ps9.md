@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contain questions on potential for the Mestel disk, Cassegrain
   configuration.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-284-modern-astrophysics-spring-2006/9b0c05d376a053cd8bc6a881fc2bb61b_ps9.pdf
+file: /media/courses/8-284-modern-astrophysics-spring-2006/9b0c05d376a053cd8bc6a881fc2bb61b_ps9.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: ps9.pdf
 uid: 9b0c05d3-76a0-53cd-8bc6-a881fc2bb61b
