@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbooks, problem sets, exams, grading policy,
+  and the schedule of course topics and assignment due dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -40,7 +43,7 @@ Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay
 
 Shu, Frank H. _The Physical Universe_. Mill Valley, CA: University Science Books, 1982. ISBN: 9780935702057.
 
-Schechter, Paul. _8.902 Notes on Cosmology_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chap3_8902_notes))
+Schechter, Paul. _8.902 Notes on Cosmology_ ({{% resource_link 930aab2e-7aa2-a909-00ca-42328b072e3f "PDF" %}})
 
 Although these are not part of the required readings, students may also find the following books useful:
 
