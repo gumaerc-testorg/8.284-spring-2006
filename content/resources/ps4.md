@@ -6,6 +6,7 @@ file: /courses/8-284-modern-astrophysics-spring-2006/cc62b429e520d9e51aa26322ada
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps4.pdf
 uid: cc62b429-e520-d9e5-1aa2-6322adad83ea
 ---
 This resource contain questions on Lane-Emden equation, equation of hydrostatic equilibrium.
-

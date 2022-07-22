@@ -5,6 +5,7 @@ file: /courses/8-284-modern-astrophysics-spring-2006/930aab2e7aa2a90900ca42328b0
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: chap3_8902_notes.pdf
 uid: 930aab2e-7aa2-a909-00ca-42328b072e3f
 ---
 Course reading.
-
