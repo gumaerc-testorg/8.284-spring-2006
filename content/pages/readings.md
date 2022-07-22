@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the required readings for the course
+  and the schedule of readings by session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7f0aeb80-135f-e4b6-64ed-71e259a3251a
 ---
@@ -21,7 +26,7 @@ Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay
 
 Shu, Frank H. _The Physical Universe_. Mill Valley, CA: University Science Books, 1982. ISBN: 9780935702057.
 
-Schechter, Paul. _8.902 Notes on Cosmology_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/chap3_8902_notes))
+Schechter, Paul. _8.902 Notes on Cosmology_ ({{% resource_link 930aab2e-7aa2-a909-00ca-42328b072e3f "PDF" %}})
 
 Readings by Session
 -------------------
