@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contain questions on Lane-Emden equation, equation of hydrostatic
   equilibrium.
 file: /courses/8-284-modern-astrophysics-spring-2006/cc62b429e520d9e51aa26322adad83ea_ps4.pdf
+file_size: 60947
 file_type: application/pdf
 learning_resource_types:
 - Assignments

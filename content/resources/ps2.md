@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contain questions on Johnson UBV system, signal-to-noise
   ratio.
 file: /courses/8-284-modern-astrophysics-spring-2006/f1b20165e45fdaef021347885f7e460e_ps2.pdf
+file_size: 64851
 file_type: application/pdf
 learning_resource_types:
 - Assignments
