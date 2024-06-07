@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contain questions on radial velocity for a star, optical
   observations.
 file: /courses/8-284-modern-astrophysics-spring-2006/2633aaafe1183541e2743fc8d6b1302c_ps3.pdf
+file_size: 50654
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contain questions on Lane-Emden equation, gravitational
   binding energy.
 file: /courses/8-284-modern-astrophysics-spring-2006/a8f8fd761e979f92d2a942d6a7e69d94_ps5.pdf
+file_size: 52933
 file_type: application/pdf
 learning_resource_types:
 - Assignments

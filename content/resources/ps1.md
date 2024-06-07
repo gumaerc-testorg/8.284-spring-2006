@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contain questions on worldwide web, astronomical literature.
 file: /courses/8-284-modern-astrophysics-spring-2006/94cb7dd09253c71fdcc1312999d9051d_ps1.pdf
+file_size: 46223
 file_type: application/pdf
 learning_resource_types:
 - Assignments
