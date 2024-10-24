@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contain questions on the physics of astrophysics, cylindrically
   symmetric explosion.
-file: /courses/8-284-modern-astrophysics-spring-2006/c28e7dc4abd1c4774a02cd6d79196b86_ps8.pdf
+file: /ol-ocw-studio-app/courses/8-284-modern-astrophysics-spring-2006/c28e7dc4abd1c4774a02cd6d79196b86_ps8.pdf
 file_size: 45841
 file_type: application/pdf
 learning_resource_types:
