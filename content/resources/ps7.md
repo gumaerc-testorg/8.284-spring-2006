@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contain questions on Homestake Mine experiment, Eddington-Barbier
   approximation.
-file: /ol-ocw-studio-app/courses/8-284-modern-astrophysics-spring-2006/479e9b75611932fbae55bea0a58ad19c_ps7.pdf
+file: /courses/8-284-modern-astrophysics-spring-2006/479e9b75611932fbae55bea0a58ad19c_ps7.pdf
 file_size: 66610
 file_type: application/pdf
 learning_resource_types:
