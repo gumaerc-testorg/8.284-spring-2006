@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Course reading.
-file: /courses/8-284-modern-astrophysics-spring-2006/930aab2e7aa2a90900ca42328b072e3f_chap3_8902_notes.pdf
+file: /ol-ocw-studio-app/courses/8-284-modern-astrophysics-spring-2006/930aab2e7aa2a90900ca42328b072e3f_chap3_8902_notes.pdf
 file_size: 477872
 file_type: application/pdf
 learning_resource_types:
