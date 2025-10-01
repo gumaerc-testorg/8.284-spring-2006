@@ -20,9 +20,9 @@ Clayton, Donald D. _Stellar Evolution and Nucleosynthesis_. Chicago, IL: Univers
 
 Hansen, Carl J., and Steven D. Kawaler. _Stellar Interiors: Physical Principles, Structure, and Evolution_. New York, NY: Springer, 2004. ISBN: 9780387200897.
 
-Mihalas, Dimitri, and James Binney. [_Galactic Astronomy_](http://www.seds.org/~spider/spider/ScholarX/coords.html). San Francisco, CA: W.H. Freeman, 1981, chapter 2. ISBN: 9780716712800.
+Mihalas, Dimitri, and James Binney. {{% resource_link "887ee8f8-8fbf-4f34-9b63-9360b5851259" "_Galactic Astronomy_" %}}. San Francisco, CA: W.H. Freeman, 1981, chapter 2. ISBN: 9780716712800.
 
-Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html)
+Press, William H. {{% resource_link "f6579986-d3a6-40e3-9341-7c44589baf21" "_Introduction to Astrophysics_" %}}
 
 Shu, Frank H. _The Physical Universe_. Mill Valley, CA: University Science Books, 1982. ISBN: 9780935702057.
 
@@ -61,7 +61,7 @@ Equatorial coordinates and sidereal time
 
 {{< tdclose >}}
 {{< tdopen >}}
-Mihalas, Dimitri, and James Binney. [_Galactic Astronomy_](http://www.seds.org/~spider/spider/ScholarX/coords.html). San Francisco, CA: W.H. Freeman, 1981, chapter 2. ISBN: 9780716712800.
+Mihalas, Dimitri, and James Binney. {{% resource_link "887ee8f8-8fbf-4f34-9b63-9360b5851259" "_Galactic Astronomy_" %}}. San Francisco, CA: W.H. Freeman, 1981, chapter 2. ISBN: 9780716712800.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +79,7 @@ Distances to stars
 
 {{< tdclose >}}
 {{< tdopen >}}
-Mihalas, Dimitri, and James Binney. [_Galactic Astronomy_](https://www.amazon.com/Galactic-Astronomy-Structure-Kinematics-Galaxies/dp/0716712806). San Francisco, CA: W.H. Freeman, 1981, chapter 2. ISBN: 9780716712800.
+Mihalas, Dimitri, and James Binney. {{% resource_link "4280b767-1ded-449c-9b3d-fce9cf62c8ae" "_Galactic Astronomy_" %}}. San Francisco, CA: W.H. Freeman, 1981, chapter 2. ISBN: 9780716712800.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +91,7 @@ Mihalas, Dimitri, and James Binney. [_Galactic Astronomy_](https://www.amazon.co
 Magnitudes (apparent and absolute) and color indices
 {{< tdclose >}}
 {{< tdopen >}}
-Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
+Press, William H. {{% resource_link "f6579986-d3a6-40e3-9341-7c44589baf21" "_Introduction to Astrophysics_" %}}. Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +109,7 @@ The Kepler problem
 
 {{< tdclose >}}
 {{< tdopen >}}
-Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
+Press, William H. {{% resource_link "f6579986-d3a6-40e3-9341-7c44589baf21" "_Introduction to Astrophysics_" %}}. Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +121,7 @@ Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay
 Parametric solution to Kepler
 {{< tdclose >}}
 {{< tdopen >}}
-Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
+Press, William H. {{% resource_link "f6579986-d3a6-40e3-9341-7c44589baf21" "_Introduction to Astrophysics_" %}}. Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +139,7 @@ Mass radius relation
 
 {{< tdclose >}}
 {{< tdopen >}}
-Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
+Press, William H. {{% resource_link "f6579986-d3a6-40e3-9341-7c44589baf21" "_Introduction to Astrophysics_" %}}. Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +151,7 @@ Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay
 Guest lecture: Mass measurements for exoplanets and our black hole
 {{< tdclose >}}
 {{< tdopen >}}
-Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
+Press, William H. {{% resource_link "f6579986-d3a6-40e3-9341-7c44589baf21" "_Introduction to Astrophysics_" %}}. Chapters 2, 3.5, 4.1, and 4.2 through 4.2.5.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +163,7 @@ Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay
 Guest lecture: Telescopes
 {{< tdclose >}}
 {{< tdopen >}}
-Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html). Chapters 2, 3.5, 4.1 and 4.2 through 4.2.5.
+Press, William H. {{% resource_link "f6579986-d3a6-40e3-9341-7c44589baf21" "_Introduction to Astrophysics_" %}}. Chapters 2, 3.5, 4.1 and 4.2 through 4.2.5.
 {{< tdclose >}}
 
 {{< trclose >}}
