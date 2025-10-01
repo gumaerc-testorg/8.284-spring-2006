@@ -37,9 +37,9 @@ Clayton, Donald D. _Stellar Evolution and Nucleosynthesis_. Chicago, IL: Univers
 
 Hansen, Carl J., and Steven D. Kawaler. _Stellar Interiors: Physical Principles, Structure, and Evolution_. New York, NY: Springer, 2004. ISBN: 9780387200897.
 
-Mihalas, Dimitri, and James Binney. [_Galactic Astronomy_](http://www.seds.org/~spider/spider/ScholarX/coords.html). San Francisco, CA: W.H. Freeman, 1981, chapter 2. ISBN: 9780716712800.
+Mihalas, Dimitri, and James Binney. {{% resource_link "887ee8f8-8fbf-4f34-9b63-9360b5851259" "_Galactic Astronomy_" %}}. San Francisco, CA: W.H. Freeman, 1981, chapter 2. ISBN: 9780716712800.
 
-Press, William H. [_Introduction to Astrophysics_](http://www.lanl.gov/DLDSTP/ay45/ay45toc.html)
+Press, William H. {{% resource_link "f6579986-d3a6-40e3-9341-7c44589baf21" "_Introduction to Astrophysics_" %}}
 
 Shu, Frank H. _The Physical Universe_. Mill Valley, CA: University Science Books, 1982. ISBN: 9780935702057.
 
